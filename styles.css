@@ -21,7 +21,7 @@ body {
   height: 100vh;
   font-family: "Poppins";
   background-color: var(--dark);
-  background-image: url("/src/background-image.jpg");
+  background-image: url("background-image.jpg");
   overflow: hidden;
 }
 
